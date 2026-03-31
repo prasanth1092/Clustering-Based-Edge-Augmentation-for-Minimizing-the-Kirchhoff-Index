@@ -6,11 +6,11 @@ Instructions for running code:-
 
 1. There are three Jupyter notebooks in this folder that run
    
- a) Greedy algorithm 
+     a) Greedy algorithm 
  
- b)2K-median_plus_Greedy algorithm
+     b)2K-median_plus_Greedy algorithm
  
- c)K_median_penalties_from__single_source
+     c)K_median_penalties_from__single_source
 
 
 3. There are various graph datasets in the "data" folder that contain the various text files, where each text file corresponds to a particular graph that is used in each table of the experiments in Section 6
